@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+}
+
+a {
+  color: green; /* 기본 링크 색상 */
+  text-decoration: none; /* 밑줄 제거 */
+}
+
+a:hover {
+  color: greenyellow; /* 마우스를 올렸을 때 색상 */
+}
